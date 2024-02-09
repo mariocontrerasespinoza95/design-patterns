@@ -88,7 +88,7 @@ Provide object creation mechanisms that increase flexibility and reuse of existi
 [Read more](./src/Creational/Creational%20Patterns%20Summary.pdf)
 
 ### Abstract Factory
-Is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.<br/>
+Is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.<br/>
 [Code](./src/Creational/Abstract.Factory/Program.cs)<br/>
 [Read more](https://refactoring.guru/design-patterns/abstract-factory)
 
